@@ -2,7 +2,7 @@
 
 ## Spring 2020
 
-Welcome to 6.S083 / 18.S190 (dual listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
+Welcome to 6.S083 / 18.S190 (doubly listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
 It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
 ## Videos
@@ -15,7 +15,7 @@ It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
 
 Please help edit the automatically-generated subtitles in the [lecture transcripts](https://drive.google.com/drive/folders/1ekXz8x78qnq3G-_MhOh6CYgFDbL2G6Vz)!
-If you do so, please change the colour of the part you edited to a colour other than black, and different from the previous and next sections.
+If you do so, please add punctuation, and please change the colour of the part you edited to a colour other than black, and different from the previous and next sections.
 
 ## Professors
 Visiting Professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu)) & Professor Alan Edelman
@@ -27,7 +27,11 @@ Lectures will be mostly live at the above times, with recordings posted when ava
 
 Start date: March 30, 2020.
 
+
+
 Office hours TBD
+
+
 
 ### Discussion forum
 [Piazza](http://piazza.com/mit/spring2020/6s083)
@@ -44,6 +48,8 @@ TBD
 ### Evaluation
 
 *   5 problem sets, lowest score dropped. 25% for each of the other 4 problem sets.
+
+*   Released on Tuesday and due the following Tuesday until May 5.
 
 *   To pass, you must submit at least 4 problem sets with passing grades
 
